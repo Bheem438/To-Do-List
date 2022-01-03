@@ -8,8 +8,8 @@
 }
 .container{
     background-color: white;
-    width: 20%;
-    height: 55%;
+    width: 25rem;
+    height: 35rem;
     border-radius: 5%;
     border: 5px solid black;
     overflow-y: scroll;
